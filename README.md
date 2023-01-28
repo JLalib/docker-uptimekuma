@@ -5,5 +5,6 @@ Uptime Kuma
 🇪🇸 Uptime Kuma es una herramienta de monitoreo autohospeada fácil de usar.
 
 docker-compose.yml
+https://github.com/JLalib/docker-uptimekuma/blob/main/docker-compose.yml
 
 Source: https://github.com/louislam/uptime-kuma
