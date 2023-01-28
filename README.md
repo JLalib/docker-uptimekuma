@@ -1,5 +1,4 @@
 Uptime Kuma
-https://github.com/louislam/uptime-kuma/raw/master/public/icon.svg
 
 🇬🇧 Uptime Kuma is an easy-to-use self-hosted monitoring tool.
 
