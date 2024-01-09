@@ -7,4 +7,6 @@ Uptime Kuma
 docker-compose.yml
 https://github.com/JLalib/docker-uptimekuma/blob/main/docker-compose.yml
 
+Uptime Kuma is now running on http://localhost:3001
+
 Source: https://github.com/louislam/uptime-kuma
